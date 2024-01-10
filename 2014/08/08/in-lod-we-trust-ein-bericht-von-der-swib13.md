@@ -110,3 +110,5 @@ Weitere lesenswerte Tagungsberichte:
 *    Lukas Koster: [“Linked Data or die!”](https://commonplace.net/2013/12/linked-data-or-die/). In: CommonPlace.Net – Library2.0 and beyond.
 *    Rurik Greenall: [“SWIB13: semantic web in bibliotheken 2013”](https://brinxmat.wordpress.com/2013/11/28/swib13-semantic-web-in-bibliotheken-2013/). In: Brinxmat’s blog.
 
+***
+

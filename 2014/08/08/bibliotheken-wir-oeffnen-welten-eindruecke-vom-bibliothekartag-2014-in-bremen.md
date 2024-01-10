@@ -17,3 +17,5 @@ Während am Rande des Bibliothekartags zwei neue OA-Zeitschriften für die Bibli
 [^1]: [o-bib](https://www.o-bib.de/), [Pressemitteilung](https://www.vdb-online.org/wordpress/2014/06/05/neues-open-access-bibliotheksjournal/)
 
 Insgesamt hat sich die Reise wieder einmal gelohnt. Wir dürfen gespannt sein, ob das diesjährige Motto bis zum nächsten Treffen der Bibliothekarinnen und Bibliothekare – vom 26. bis 29. Mai 2015 in Nürnberg – wirklich gelebt wird.
+
+***

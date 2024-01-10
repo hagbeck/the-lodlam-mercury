@@ -84,3 +84,6 @@ Die im Rahmen des Projektes entstandene Software zur Erzeugung bzw. Konvertierun
 
 Um die Grundsätze der guten wissenschatlichen Arbeit im Sinne der eigenen Einrichtung aber auch der Drittmittelgeber zu erfüllen, ist die Plattform Zenodo sehr gut geeignet – insbesondere wenn es keine fachbezogene oder institutionelle Alternative gibt. Ein wesentlicher Vorteil von Zenodo liegt in der abgesicherten dauerhaften Finanzierung durch EU-Mittel und dem Betrieb durch das mit großen Datenmengen erfahrene CERN. Auch die Vergabe von DOIs und der automatischen Meldung der Publikationen an Drittmittelgeber (bisher nur für EU-Projekte via OpenAIRE) sind für Aspekte wie Sichtbarkeit und Vereinfachung von Verwaltungsaufgaben von Vorteil.\
 Ein Nachteil könnte sein, dass eine Beschreibung der Daten mittels fachspezifischer Metadaten fehlt. Allerdings ist fast davon auszugehen, dass es in einem Fachgebiet mit einem speziellen Metadatenschema auch ein Datenrepositorium exisitert (nach schlagen kann man dies im Verzeichnis [Registry of Research Data Repositories (re3data)](https://www.re3data.org/).
+
+***
+

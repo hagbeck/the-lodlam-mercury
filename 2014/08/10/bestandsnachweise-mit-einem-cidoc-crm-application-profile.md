@@ -167,3 +167,5 @@ Die vermeintliche Komplexität der Modelle mittels CIDOC CRM und seinen Erweiter
 Für die tatsächliche Erfassungsarbeit der Bestände durch Bibliothekarinnen und Bibliothekare können in dieser Form sehr einfach gehaltene Formulare dienen, die an den Linking-Felder mit “autosuggest“-Funktionen hinterlegt sind. Im Sinne der Forderung von Dorothea Salo bei der SWIB 13[^8] nach Tools, wäre das ein sehr wertvolles Szenario und ein wesentlicher Schritt vom “Cataloging” zum “Catalinking“.
 
 [^8]: vgl. z.B. mein Tagungsbericht [“In LOD we trust” – Ein Bericht von der SWIB13](https://the-lodlam-mercury.de/2014/08/08/in-lod-we-trust-ein-bericht-von-der-swib13/)
+
+***
