@@ -44,13 +44,13 @@ Ich bin von Hause aus Mathematiker und habe 2008 den Studiengang M.L.I.S. des In
   * [Library Holdings as Linked Data](2013/11/22/library-holdings-as-linked-data.md)\
     Hans-Georg Becker, André Hagenbruch (Translation); 22. November 2013
 * Volume 2, 2014
-  *  [“In LOD we trust” – Ein Bericht von der SWIB13]()\
+  *  [“In LOD we trust” – Ein Bericht von der SWIB13](2014/08/08/in-lod-we-trust-ein-bericht-von-der-swib13.md)\
     Hans-Georg Becker; 08. August 2014
-  *  [“Bibliotheken: Wir öffnen Welten” — Eindrücke vom Bibliothekartag 2014 in Bremen]()\
+  *  [“Bibliotheken: Wir öffnen Welten” — Eindrücke vom Bibliothekartag 2014 in Bremen](2014/08/08/bibliotheken-wir-oeffnen-welten-eindruecke-vom-bibliothekartag-2014-in-bremen.md)\
     Hans-Georg Becker; 08. August 2014
-  *  [Veröffentlichung von Forschungsdaten eines DFG-Projektes auf Zenodo – Ein Selbstversuch]()\
+  *  [Veröffentlichung von Forschungsdaten eines DFG-Projektes auf Zenodo – Ein Selbstversuch](2014/08/09/veroeffentlichung-von-forschungsdaten-eines-dfg-projektes-auf-zenodo-ein-selbstversuch.md)\
     Hans-Georg Becker; 09. August 2014
-  *  [Bestandsnachweise mit einem CIDOC CRM-Application Profile]()\
+  *  [Bestandsnachweise mit einem CIDOC CRM-Application Profile](2014/08/10/bestandsnachweise-mit-einem-cidoc-crm-application-profile.md)\
     Hans-Georg Becker; 10. August 2014
 
 Der Blog ist aufgrund von Zeitmangel eingeschlafen.
