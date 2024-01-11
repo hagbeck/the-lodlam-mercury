@@ -43,4 +43,4 @@ Spätestens mit der Frage nach "FRBR and Serials" innerhalb des [lobid.org-Proje
 
 In den nächsten Beiträgen dieses Blogs werde ich auf Basis der Publikationsformen nach dem bibliothekarischen Standardwerk "Bibliothekarisches Grundwissen" die Sichtweise der FRBRoo darstellen und zeigen, dass die Fragestellungen bzgl. der "Serials" sich damit beantworten lassen.
 
-Weiterlesen: [FRBRoo — Eine prozessorientierte Sicht auf bibliographische Informationen](2013/02/16/frbroo-eine-prozessorientierte-sicht-auf-bibliographische-informationen.md)
+Weiterlesen: [FRBRoo — Eine prozessorientierte Sicht auf bibliographische Informationen](../16/frbroo-eine-prozessorientierte-sicht-auf-bibliographische-informationen.md)
