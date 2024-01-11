@@ -13,7 +13,7 @@ Ziel des Projektes war es, "Primärdaten archäologischer Forschung, die bisher 
 
 Aufgrund der als "Best Practice" einzuordnenden Erfahrungen aus den britischen Strukturen zur Erhaltung des kulturellen Erbes (z.B. English Heritage, British Museum), war uns sehr früh bewusst, dass ein System wie ArcheoInf nur auf Basis des CIDOC CRM gelingen kann.
 
-**Was ist das CIDOC CRM?**
+## Was ist das CIDOC CRM?
 
 Beim [CIDOC Conceptual Reference Model](http://www.cidoc-crm.org/) handelt es sich um eine Norm (ISO 21127:2006) für den kontrollierten Austausch von Informationen im Bereich des kulturellen Erbes. Die Ontologie soll unter anderem von Archiven, Bibliotheken und Museen zur Verbesserung der Verfügbarkeit von Wissen angewandt werden. Es wurde vom CIDOC, einem der 30 internationalen Komitees des International Council of Museums (Internationalen Museumsrats, ICOM) entwickelt.
 
@@ -21,7 +21,7 @@ Mit dem CIDOC CRM wird das Ziel verfolgt, die vielfältigen Informationen im Ber
 
 Das CRM beruht auf zwei Hierarchien von Entitäten und Eigenschaften und erlaubt ein hohes Maß an semantischer Präzision. Es eignet sich daher als eine Art Zwischenformat, dessen Verwendung die Anzahl der notwendigen Mappings dramatisch reduziert, wenn verschiedene Quellformate und mehrere Zielsprachen benötigt werden. Die wichtigste Eigenschaft des CIDOC CRM ist allerdings die Ereigniszentriertheit, d.h. es wird davon ausgegangen, dass jedes Objekt nur dann existiert, wenn vorher ein Ereignis stattgefunden hat, welches das Objekt zum Resultat hat.
 
-**Aber es fehlen Strukturen für bibliographische Daten!**
+## Aber es fehlen Strukturen für bibliographische Daten!
 
 Das CRM erlaubt Mappings beliebiger Datenmodelle. Für einige der im Bereich des kulturellen Erbes einschlägigen Modelle liegen generische Mappings vor, die von den Entwicklern des CRM veröffentlicht wurden. Die im Rahmen des CRM-Entwicklungsprojekts entworfenen Mappings für Dublin Core (DC), Encoded Archival Description (EAD), Lightweight Information Describing Objects (LIDO) und anderer Modelle und Formate orientieren sich an den im CRM-Entwicklungsprozess ausgearbeiteten [Empfehlungen](http://www.cidoc-crm.org/crm_mappings.html). <mark>Link defekt</mark>
 
@@ -37,7 +37,7 @@ Mit der Entwicklung der FRBRoo ging eine gegenseitige Anreicherung der FRBR und 
 
 FRBRoo fügt damit den FRBR die dynamischen Aspekte des CRM hinzu. Ferner erlaubt es, aufgrund der netzartigen Struktur des CRM, bibliographische Informationen in Linked Data Kontexte zu übertragen.
 
-**FRBR, Serials und die fehelende Manifestation**
+## FRBR, Serials und die fehelende Manifestation
 
 Spätestens mit der Frage nach "FRBR and Serials" innerhalb des [lobid.org-Projektes des hbz](https://wiki1.hbz-nrw.de/display/SEM/2011/10/17/Serials+and+FRBR), habe ich mich entschlossen, mehr über meine Ergebnisse zum CRM und zu FRBRoo zu berichten.
 

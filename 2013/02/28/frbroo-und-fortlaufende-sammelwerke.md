@@ -18,20 +18,20 @@ Es ist zu beachten, dass FRBRoo keine Unterscheidung zwischen Serien und Reihen 
 
 Zu Ersteren zählen beispielsweise Zeitschriften mit Jahrgangzählung.
 
-**Fortlaufende Sammelwerke mit eingebetteten mehrbändigen Werken**
+## Fortlaufende Sammelwerke mit eingebetteten mehrbändigen Werken
 
 Nachdem, was in dieser Beitragsreihe bisher gezeigt wurde, lässt sich ein mehrbändiges Werk innerhalb eines fortlaufenden Sammelwerks als `F15 Complex Work` beschreiben. Dass dies auch im Falle von Periodika gilt, in dem die Jahrgänge in der Regel Fortsetzungswerke sind, wird auch durch folgendes Zitat aus der Definition zu `F15 Complex Work` deutlich: “One part may not be finished when another is already revised.”
 Die Komponente des unbestimmten Endes eines fortlaufenden Sammelwerks entsteht also bei der Einbindung der Complex Works der Mehrbänder in das Serial Work. In der folgenden Abbildung wird das `F15 Complex Work` zum Publikationsprozess dann noch zusätzlich um die Struktur des `F18 Serial Work` erweitert.
 
-![](HGB_F18.jpg)
+[![Serial Works im CRM](HGB_F18.jpg)](HGB_F18.jpg)
 
-**Fortlaufende Sammelwerke ohne eingebettete mehrbändige Werke**
+## Fortlaufende Sammelwerke ohne eingebettete mehrbändige Werke
 
 Die letzte Abbildung zeigt auch, wie sich dieser Fall aus den vorherigen Modellen herleiten lässt. Da es sich hier um Einzelwerke und Sammelwerke handelt, die in einer Reihe erschienen sind, werden die Individual Works und somit auch die Aggregation Works als member eines Serial Work definiert.
 
 [Beispiel für fortlaufende Sammelwerke](beispiele-frbroo-und-fortlaufende-sammelwerke.md)
 
-**Und nun?**
+## Und nun?
 
 In dieser Beitragsreihe habe ich gezeigt, dass man mittels FRBRoo bibliographische Daten als Linked Data darstellen kann. Ich hoffe, dass ich ebenfalls zeigen konnte, dass man vor den FRBRoo keine Angst haben muss 😉
 

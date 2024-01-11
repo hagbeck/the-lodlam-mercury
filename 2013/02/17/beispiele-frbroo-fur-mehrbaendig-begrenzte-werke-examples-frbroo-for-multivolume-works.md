@@ -16,7 +16,7 @@ ISBN: 3-598-21253-4
 
 **Graphische Darstellung / graphical representation**
 
-![Beispiel eines mehrbändig begrenzten Werkes im Publikationsprozess](HGB_mbW_Publikationsprozess_Beispiel.jpg)
+[![Beispiel eines mehrbändig begrenzten Werkes im Publikationsprozess](HGB_mbW_Publikationsprozess_Beispiel.jpg)](HGB_mbW_Publikationsprozess_Beispiel.jpg)
 
 **Mögliche RDF-Darstellung / representation in RDF**
 
@@ -32,7 +32,7 @@ Braunschweig [u.a.]: Vieweg, 2009. 5., aktualisierte Aufl.
 
 **Graphische Darstellung / graphical representation**
 
-![Beispiel eines mehrbändig begrenzten Werkes im Schöpfungsprozess](HGB_mbW_Schoepfungsprozess_Beispiel.jpg)
+[![Beispiel eines mehrbändig begrenzten Werkes im Schöpfungsprozess](HGB_mbW_Schoepfungsprozess_Beispiel.jpg)](HGB_mbW_Schoepfungsprozess_Beispiel.jpg)
 
 **Mögliche RDF-Darstellung / representation in RDF**
 

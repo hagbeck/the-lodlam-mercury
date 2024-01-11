@@ -36,7 +36,7 @@ Das folgende Diagramm stellt die Verlinkung der beiden Metabereiche dar. Dabei b
 Hochschulbibliothekszentrum NRW (hbz) betrieben und entsteht durch eine gemeinsame Katalogisierung der Verbundbibliotheken in ein zentrales
 Bibliothekssystem (ILS). Die in diesem System erfassten Daten werden anschließend in den Lokalsystemen repliziert.
 
-![Verbund-Lokal-System](./Verbund-Lokal-System.jpg)
+[![Verbund-Lokal-System](Verbund-Lokal-System.jpg)](Verbund-Lokal-System.jpg)
 
 Das obige Diagramm zeigt auf der Seite der tatsächlichen Bestände nur das Konzept der `F5 Item` aus FRBRoo. Mit dem Erscheinen von PRESSoo gibt es auch für die Bestände von Zeitschriften ein geeignetes “Item”, nämlich `Z9 Storage Unit`. Auch für digitale Objekte gibt es mit der CRM-Erweiterung CRMdig eine geeignete Darstellung auf Exemplarebene.
 
@@ -61,7 +61,7 @@ Somit können Aufbewahrungsorte wie Zweigstellen, Sektionen, Abteilungen oder Ma
 *    `E18 Physical Thing` `P52 has current owner (is current owner of)` `E39 Actor`
 *    `E18 Physical Thing` `P58 has section definition (defines section)` `E46 Section Definition`
 
-![Bestandsnachweis](./Bestandsnachweis1.jpg)
+[![Bestandsnachweis](Bestandsnachweis1.jpg)](Bestandsnachweis1.jpg)
 
 **Beispiel 1:** The FRBR family of conceptual models
 
@@ -102,7 +102,7 @@ Durch die Transformation der Exemplare zu einem neuen Objekt, wird letzteres zu 
 
 [^2]: Bei “einfachen” Reihen oder Serien handelt es sich bei den Bänden in der Regel um Objekte in “klassischer Buchform”, die nicht in regelmäßigen Abständen zu neuen Einheiten gebunden werden. Sie werden daher aus dieser Betrachtung herausgelassen.
 
-![Items of Serial Works](./Items_of_Serial_Works.jpg)
+[![Items of Serial Works](Items_of_Serial_Works.jpg)](Items_of_Serial_Works.jpg)
 
 Der Beschreibung der Bestände verteilt sich jetzt auf zwei Objekte:
 
@@ -183,7 +183,7 @@ Das folgende Diagramm zeigt die Anbindung der Document Service Ontology an die `
 
 [^4]: In der Spezifikation zu DSO heißt es: “The set of documents is not limited to a specific class[…]”. Daher ist hier die Annahme berechtigt. Bei DAIA müsste die Spezifikation dahingehend erweitert werden, da hier nur frbr:items verwendet werden.
 
-![Verknüpfung Z9 mit DAIA](./Z9-DAIA.jpg)
+[![Verknüpfung Z9 mit DAIA](Z9-DAIA.jpg)](Z9-DAIA.jpg)
 
 Die zugeordneten Document Services werden mit der Simple Service Status Ontology beschreiben. Somit sind dann Aussagen wie “Das Exemplar A ist bis zum Datum X nicht ausleihbar.” möglich.
 

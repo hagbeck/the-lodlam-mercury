@@ -15,7 +15,7 @@ Leiden, Boston, Köln : Brill, 2001.
 
 **Graphische Darstellung / graphical representation**
 
-![Sammelwerk Beispiel](HGB_Sammelwerk_Beispiel.jpg)
+[![Sammelwerk Beispiel](HGB_Sammelwerk_Beispiel.jpg)](HGB_Sammelwerk_Beispiel.jpg)
 
 **Mögliche RDF-Darstellung / representation in RDF**
 

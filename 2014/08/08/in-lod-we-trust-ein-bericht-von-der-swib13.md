@@ -90,13 +90,13 @@ Die aktuellen Entwicklungen rund um BIBFRAME wurden in der folgenden Session von
 
 Mit der Sicht von Richard Wallis auf bibliographische Daten ist klar, dass Linked Data ein dezentralisiertes System ist und somit eher “small data” als “big data”. Auch [Martin Malmsten](https://swib.org/swib13/speakers.php#90cdf2f589effbecd5e8b5b1f6dbc0d2) stellte in seinem Beitrag [“Decentralisation, Distribution, Disintegration – towards Linked Data as a First Class Citizen in Libraryland”](https://swib.org/swib13/programme.php#abs136) diesen Ansatz in den Vordergrund.
 
-![Martin Malmsten @ SWIB13](./slide-13-638.jpg)
+[![Martin Malmsten @ SWIB13](slide-13-638.jpg)](slide-13-638.jpg)
 
 ## “In LOD we trust”
 
 Der Workshop zum Thema Provanance Metadata wurde nun schon zum zweiten Mal bei der SWIB angeboten. Während der SWIB zeigte sich in vielen Bereichen, dass die Ebene der Vertrauenswürdigkeit im “Semantic Web Layer Cake” immer mehr in den Fokus rückt.
 
-![Semantic Web Layer Cake (w3c)](./swlevels.gif)
+[![Semantic Web Layer Cake (w3c)](swlevels.gif)](swlevels.gif)
 
 Die beiden letztgenannten Beiträge zusammengefasst ergeben somit die Erkenntnis, dass unter der Tatsache “Linked Data = Small Data” die Bereitstellung von “Provenance Metadata” eine notwendige Bedingung für “Trust” in der Linked Open Data Cloud und im Semantic Web ist.
 
@@ -106,7 +106,7 @@ Die Konferenz war super 🙂 Die Entwicklung von einer lokalen zu einer internat
 
 Um Entscheider und Bibliothekare für das Thema zu begeistern sind dringend konkrete Anwendungen notwendig, die die Vorteile näher bringen und nicht auf RDF-Level agieren. Allerdings handelt es sich hierbei um ein Henne-Ei-Problem: es müssen erst Modelle und Daten erzeugt werden, um erste Anwendungen zeigen zu können; es werden aber nur Ressourcen dazu geschaffen, wenn man zeigen kann, warum Linked Data wichtig und nützlich ist.
 
-![Martin Malmsten @ SWIB13](./slide-24-638.jpg)
+[![Martin Malmsten @ SWIB13](slide-24-638.jpg)](slide-24-638.jpg)
 
 Es kann den Teilnehmern der Tagung und anderen Kolleginnen und Kollegen nicht hoch genug angerechnet werden, dass sie mit soviel Engagement und ohne große Ressourcen die Vorarbeiten leisten.
 

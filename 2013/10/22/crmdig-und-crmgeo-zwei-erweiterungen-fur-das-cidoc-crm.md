@@ -28,11 +28,11 @@ In ihrem auf der [TaPP-Konferenz 2011](https://www.usenix.org/legacy/events/tapp
 
 Das folgende Bild zeigt das Netz von Objekten und Prozessen für zwei Digitaliserungsereignisse und die darauf folgenden Verarbeitungsschritte. Bei der Digitaliserung wurden zwei verschiedene Techniken verwendet, die letztlich zwei 3D Modelle des Objektes erzeugen.
 
-![Digitalisierung eines Objektes durch zwei Prozesse](CRMdig-TAPP11.jpg)
+[![Digitalisierung eines Objektes durch zwei Prozesse](CRMdig-TAPP11.jpg)](CRMdig-TAPP11.jpg)
 
 Das CRMdig stellt bei der Beschreibung die Entität Digital Machine Event in den Mittelpunkt und geht davon aus, dass jedes dieser Ereignisse durch eine menschliche Person angestoßen wird. Das folgende Diagramm zeigt die Modellierung in der üblichen CRM-Manier, wobei hier die Entitäten mit einem vorangestellten D und die Eigenschaften mit einem vorangestellten L bezeichnet werden.
 
-![Erzeugen eines Objektes durch maschinelle Prozesse](./CRMdig-TAPP11-1.jpg)
+[![Erzeugen eines Objektes durch maschinelle Prozesse](./CRMdig-TAPP11-1.jpg)](CRMdig-TAPP11-1.jpg)
 
 Für die Anwendung im Kontext von Linked Data wird auch eine [RDFS-Version](http://www.ics.forth.gr/isl/rdfs/3D-COFORM_CRMdig.rdfs) angeboten.
 
@@ -44,8 +44,8 @@ Beide Bereiche verfügen aber bereits über etablierte Standards zur Beschreibun
 
 Diese Erkenntnis hat man beim [ICS-FORTH ](http://www.ics.forth.gr/)(Institute of Comupter Science, Foundation for Research and Technology, Griechenland) dazu genutzt, um diese Lücke zu schließen. Herausgekommen ist mit CRMgeo eine Erweiterung des CIDOC CRM. Die Idee dabei ist, dass Fragen wie “Ist das der Ort, an der die Varus Schlacht stattgefunden hat?” oder “Ist das der Ort, an dem Lord Nelson starb?” auf ihren Wahrheitsgehalt überprüft werden können. Es wird schnell klar, dass – wie im Beispiel der Varusschlacht – auch ungenaue Informationen bzw. – wie im Fall Lord Nelson – auch verschiedene Sichten auf einen Ortskontext berücksichtigt werden müssen.
 
-![Zentrale Ereignisse in der Diskussion um die Varausschlacht](./CRMgeo-Figure-1-Varus.jpg)
+[![Zentrale Ereignisse in der Diskussion um die Varausschlacht](./CRMgeo-Figure-1-Varus.jpg)](CRMgeo-Figure-1-Varus.jpg)
 
-![Ereignisse der Schlacht von Trafalgar aus Sicht des Schiffs und des Meeresgrunds](./CRMgeo-Figure-6-Lord_Nelson.jpg)
+[![Ereignisse der Schlacht von Trafalgar aus Sicht des Schiffs und des Meeresgrunds](./CRMgeo-Figure-6-Lord_Nelson.jpg)](CRMgeo-Figure-6-Lord_Nelson.jpg)
 
 Der [Report zu CRMgeo](http://www.cidoc-crm.org/docs/Technical%20Report435-CRMgeo.pdf) zeigt an den beiden genannten Beispielen die Zusammenhänge und die Mächtigkeit des Modells und erweitert das CRM so um eine weitere wichtige Komponente.

@@ -21,12 +21,12 @@ Beispiele für [FRBRoo und fortlaufende Sammelwerke](../28/frbroo-und-fortlaufen
 
 Neben zahlreichen Verlagswechseln, kommen bei diesem fortlaufenden Sammelwerk mit eingebetteten mehrbändigen Werken noch einige Titeländerungen und Änderungen bei der herausgebenden Körperschaft hinzu. In der folgenden Abbildungen werden daher nur ein paar Änderungen verdeutlicht.
 
-![Beispiel Serial Work für eine Zeitschrift](./Beispiel_Serial_Work_Zeitschrift1.jpg)
+[![Beispiel Serial Work für eine Zeitschrift](./Beispiel_Serial_Work_Zeitschrift1.jpg)](Beispiel_Serial_Work_Zeitschrift1.jpg)
 
 Zu beachten ist, dass die Änderungen sämtlichst auf der Ebene der Zeitschriftenhefte erfasst wird, da die Zeitschrift ansich (das `F18 Serial Work`) keine eigene Manifestation besitzt.\
 Die Erfassung der Titeländerungen für die Zeitschrift können zusätzlich über Teilereignisse des `F30 Publication Event` des zugehörigen Heftes abgebildet werden. Diese Teilereignisse sind mittels CRM als `E13 Attribute Assignment` darstellbar und bilden den Prozess der Titelvergabe für das `F18 Serial Work` ab. Mit Hilfe von Vorgänger- und Nachfolgerrelationen der Ereignisse ist es dann möglich, dem fortlaufenden Sammelwerk den aktuellen Titel zuzuweisen (“`E13 Attribute Assignment` enthält keine Eigenschaft `P120 occours before`“).
 
-![Beispiel Serial Work Zeitschrift Titeländerung](Beispiel_Serial_Work_Zeitschrift_Titelaenderung.jpg)
+[![Beispiel Serial Work Zeitschrift Titeländerung](Beispiel_Serial_Work_Zeitschrift_Titelaenderung.jpg)](Beispiel_Serial_Work_Zeitschrift_Titelaenderung.jpg)
 
 **Mögliche RDF-Darstellung**
 

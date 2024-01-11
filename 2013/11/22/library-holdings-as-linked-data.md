@@ -34,7 +34,7 @@ The following diagram illustrates the connection between these two services. It�
 
 [^2]: currently only in German
 
-![Union Cataloge and Local Library System](./Verbund-Lokal-System_en.jpg)
+[![Union Cataloge and Local Library System](Verbund-Lokal-System_en.jpg)](Verbund-Lokal-System_en.jpg)
 
 On the right side of the diagram you can see the actual holdings which are being modeled by the concept `F5 Item` from FRBRoo. Moreover, PRESSoo offers a suitable item for journal holdings, i.e. `Z9 Storage Unit`. The CRM extension CRMdig offers a suitable model for the presentation of digital objects on the level of exemplars.
 
@@ -57,7 +57,7 @@ Thus we can make statements about cohesion or ownership with respect to location
 *    `E18 Physical Thing` `P52 has current owner (is current owner of)` `E39 Actor`
 *    `E18 Physical Thing` `P58 has section definition (defines section)` `E46 Section Definition`
 
-![Holdings information](./Bestandsnachweis1.jpg)
+[![Holdings information](Bestandsnachweis1.jpg)](Bestandsnachweis1.jpg)
 
 **Example 1:** The FRBR family of conceptual models
 
@@ -98,7 +98,7 @@ Ongoing serials (`F18 Serial Work`) or journals as their special case have to be
 
 The following diagram shows both the most current issue in its original binding and the result of the binding process and its relation to `Z9 Storage Unit`. By transforming the items to a new object the latter becomes an item of a new cumulative Publication Work. This Publication Work in turn is part of an ongoing serial work of type series.
 
-![Items of Serial Works](./Items_of_Serial_Works.jpg)
+[![Items of Serial Works](./Items_of_Serial_Works.jpg)](Items_of_Serial_Works.jpg)
 
 The holdings information is now distributed on two objects:
 
@@ -179,7 +179,7 @@ The following diagram shows the linkage of the Document Service Ontology to the 
 
 [^5]: The DSO specification says: ‘The set of documents is not limited to a specific class […]’. Thus, the assumption holds true. The DAIA specification would have to be extended insofar as it only considers frbr:items valid at this point.
 
-![link Z9 to DAIA](./Z9-DAIA.jpg)
+[![link Z9 to DAIA](Z9-DAIA.jpg)](Z9-DAIA.jpg)
 
 The linked Document Services are being described by the Simple Service Status Ontology. Thus, we can make statements such as ‘Item A is unavailable until date X.’
 

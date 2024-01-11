@@ -38,16 +38,16 @@ Zusätzlich lassen sich auch temporäre Veränderungen modellieren.
 
 Für Fortsetzungen wird der Prozesss in PRESSoo mittels einer neuen Ereignis-Entität `Z1 Serial Transformation` modelliert. Diese Ereignisse stehen in natürlicher Beziehung zu den letzten `F30 Publication Events` des Vorgängerwerkes bzw. zu den ersten `F30 Publication Events` des Nachfolgewerkes. Dabei werden diese `F30 Publication Events` mittels `Z6 Starting of Publication` und `Z7 Ending of Publication` präzisiert.
 
-![PRESSoo-Figure-4](./PRESSoo-Figure-4.jpg)
+[![PRESSoo-Figure-4](./PRESSoo-Figure-4.jpg)](PRESSoo-Figure-4.jpg)
 
 Beispiel 1:\
 [Förderschulmagazin : individuelle Förderung von Kindern mit Lernschwierigkeiten](https://ld.zdb-services.de/resource/1217829-9)\
 früher: [Sonderschulmagazin : Compacts, Arbeitsvorlagen, Verfahren, Formen, Techniken für d. Unterrichtspraxis](https://ld.zdb-services.de/resource/798053-x)
 früher: E[hrenwirth-Sonderschulmagazin : Zeitschr. für d. Unterrichtspraxis](https://ld.zdb-services.de/resource/800272-1)
 
-![PRESSoo-Beispiel-1](./PRESSoo-Beispiel-1.jpg)
+[![PRESSoo-Beispiel-1](./PRESSoo-Beispiel-1.jpg)](PRESSoo-Beispiel-1.jpg)
 
-![PRESSoo-Beispiel-1b](./PRESSoo-Beispiel-1b.jpg)
+[![PRESSoo-Beispiel-1b](./PRESSoo-Beispiel-1b.jpg)](PRESSoo-Beispiel-1b.jpg)
 
 ```
 <http://ld.zdb-services.de/resource/800272-1> [

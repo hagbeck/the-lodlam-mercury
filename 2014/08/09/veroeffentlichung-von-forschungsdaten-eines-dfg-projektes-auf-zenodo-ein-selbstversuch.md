@@ -44,7 +44,7 @@ Trotz dieser Schwierigkeiten ist es dem Projektteam gelungen, Werkzeuge, Program
 
 Die am Projekt beteiligten Bibliotheken hatten unter anderem die Aufgabe, ein Dokumentenrepositorium – insbesondere für graue Literatur – mindestens aber eine Bibliographie der in den auf der ArchoInf-Plattform bereitgestellten Projekte zur Verfügung zu stellen. Dabei wurde schon sehr früh entschieden, dass als gemeinsamer Nenner das bibliographische Datenformat MODS dienen soll. Ferner wurden die Daten einerseits für die Indexierung in einer auf Apache Solr basierenden Suchmaschine und andererseits mittels der CIDOC CRM-Ontologien für die Verwendung als Linked Data aufbereitet.
 
-![Zenodo-Logo](https://zenodo.org/static/images/invenio-rdm.svg)
+![Zenodo-Logo](zenodo.png)
 
 **Zenodo – An open digital repository for everyone and everything that isn’t served by a dedicated service**\
 [OpenAIRE](https://www.openaire.eu/) und [CERN](https://home.web.cern.ch/) haben dieses Repositorium im Jahr 2013 gestartet. Das von der Europäischen Kommission unterstützte Repositorium bietet einen zentralen Ort für die Speicherung und Recherche von Forschungsdaten und dient zusätzlich als Orphan Repository für Publikationen, für die kein passendes institutionelles oder disziplinäres Repositorium zur Verfügung steht.
