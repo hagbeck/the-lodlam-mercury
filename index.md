@@ -8,7 +8,9 @@ Dieses Blog wird von Hans-Georg Becker [![ORCIDiD_icon16x16](https://info.orcid.
 
 Ich bin von Hause aus Mathematiker und habe 2008 den Studiengang M.L.I.S. des Instituts für Informationswissenschaft an der Fachhochschule Köln absolviert. Ich arbeite in der [Universitätsbibliothek](https://www.ub.tu-dortmund.de/) der [Technischen Universität Dortmund](https://www.tu-dortmund.de/).
 
-[![ORCIDiD_icon16x16](https://info.orcid.org/wp-content/uploads/2020/12/ORCIDiD_icon16x16.png) 0000-0003-0432-294X](https://orcid.org/0000-0003-0432-294X)
+Der Blog ist aufgrund von Zeitmangel eingeschlafen.
+
+Meine vollständige Publikationsliste befindet sich in meinem [ORCID Record ![ORCIDiD_icon16x16](https://info.orcid.org/wp-content/uploads/2020/12/ORCIDiD_icon16x16.png)](https://orcid.org/0000-0003-0432-294X).
 
 ¹LODLAM = Linked Open Data in Libraries, Archives and Museums
 
@@ -53,11 +55,7 @@ Ich bin von Hause aus Mathematiker und habe 2008 den Studiengang M.L.I.S. des In
   *  [Bestandsnachweise mit einem CIDOC CRM-Application Profile](2014/08/10/bestandsnachweise-mit-einem-cidoc-crm-application-profile.md)\
     Hans-Georg Becker; 10. August 2014
 
-Der Blog ist aufgrund von Zeitmangel eingeschlafen.
-
-Meine vollständige Publikationsliste befindet sich in meinem [_ORCID Record_]((https://orcid.org/0000-0003-0432-294X)).
-
 ***
 
-![cc by 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](./cc_by_88x31.png)\
 The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.

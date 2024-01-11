@@ -1,12 +1,15 @@
 # Publizieren mal zeitgemäß
 
-https://the-lodlam-mercury.de/2013/02/12/publizieren-mal-zeitgemaess/
-
 Posted on 12. Februar 2013 by Hans-Georg Becker	
 
-English Version English Version
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
 
-Ich bin seit Jahren Anhänger der Open-Bewegung: Forschungsergebnisse insbesondere von aus öffentlich finanzierten Projekten und Einrichtungen müssen der Öffentlichkeit im Sinne der Open Definition zur Verfügung gestellt werden. Es kann nicht sein, dass der Steuerzahler mehrfach für solche Forschung bezahlen muss.
+[English Version](publishing-the-modern-way.md)
+
+***
+
+Ich bin seit Jahren Anhänger der Open-Bewegung: Forschungsergebnisse insbesondere von aus öffentlich finanzierten Projekten und Einrichtungen müssen der Öffentlichkeit im Sinne der [Open Definition](http://opendefinition.org/) zur Verfügung gestellt werden. Es kann nicht sein, dass der Steuerzahler mehrfach für solche Forschung bezahlen muss.
 
 Je mehr die Verlage das Thema Open Access für sich entdecken, desto perversere Praktiken entstehen. Da werden Preprints mit dem Verweis auf die spätere offene Version nicht erlaubt, horende Kosten bei den Autoren erhoben und trotzdem die Subskriptionskosten nicht reduziert (und das, obwohl die Autoren sowieso schon die meiste Arbeit beim Publizieren leisten) …
 
@@ -17,8 +20,8 @@ Neben den Erfahrungen aus der Praxis stellte ich mir auch die Frage, ob diese Pu
 Wir leben in einer Zeit, in der man quasi immer online ist, sich in sozialen Netzwerken bewegt und Fragestellungen in diesen Netzwerken oder bei Google, Bing und Co. versucht kooperativ und offen zu diskutieren. Immer häufiger sieht man, dass Forscherinnen und Forscher ihre Ergebnisse und Fragestellungen in Blogs dokumentieren und über die Kommentarfunktionen diskutieren. Gibt es eine bessere Art des Reviews?
 In einer solchen Zeit scheint mir die klassische Publikationspraxis für aktuelle Forschungsergebnisse, gerade in einer relativ weichen Wissenschaft wie sie die Bibliotheks- und Informationswissenschaft ist, überholt zu sein.
 
-Ich habe mich nun entschlossen, mit diesem Blog ebenfalls diesen Weg zu gehen. Der Vorteil liegt für mich vor allem darin, dass ich zeitlich unabhängig auch kleinere Ergebnisse meiner Arbeit (Themen meines Blogs) direkt der Öffentlichkeit zur Verfügung stellen und diskutieren kann. Das soll allerdings nicht heißen, dass es nicht auch noch “old school” Publikationen von mir geben kann 😉
+Ich habe mich nun entschlossen, mit diesem Blog ebenfalls diesen Weg zu gehen. Der Vorteil liegt für mich vor allem darin, dass ich zeitlich unabhängig auch kleinere Ergebnisse meiner Arbeit ([Themen meines Blogs](../../../index.md)) direkt der Öffentlichkeit zur Verfügung stellen und diskutieren kann. Das soll allerdings nicht heißen, dass es nicht auch noch “old school” Publikationen von mir geben kann 😉
 
 In diesem Sinne freue ich mich auf Feedback!
-This entry was posted in German, Open Access, Open Science and tagged Bibliotheks- und Informationswissenschaft, wissenschaftliches Publizieren. Bookmark the permalink. 
+
 
