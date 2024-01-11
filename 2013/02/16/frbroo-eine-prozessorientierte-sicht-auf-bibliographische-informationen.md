@@ -63,7 +63,7 @@ In der hier vorgestellten Modellierung werden die Entitäten der FRBRoo mit dene
 Verwendet man nur das CRM, so müssen für Aussagen sehr viele Tripel erzeugt werden, bis die Semantik klar ausgedrückt wird, wodurch sehr große Graphen entstehen. Um diese Graphen kleiner zu halten, wird mittels Ontology Alignement ein Mapping zu Modellen erzeugt, die für die gleiche Aussagekraft kürzere Wege erlauben. So entsteht ein durch das CRM zusammengehaltener Graph, dessen Knoten durch fachspezifische Ontologien beschreiben werden.
 Auch Mazurek, Cezary et al. berichten in ihrem Beitrag [“From MARC21 and Dublin Core, through CIDOC CRM. First Tenuous Steps towards Representing Library Data in FRBRoo.“](http://www.cidoc2012.fi/en/File/1611/mazurek.pdf) <mark>LINK DEFEKT</mark> von dieser Problematik. Sie zeigen in ihrem Beitrag an einem Beispiel, wie kleinteilig diese Art der Modellierung wäre.
 
-Das bisher beschriebene Modell soll durch ein [Beispiel](2013/02/16/beispiel-frbroo-fuer-einzelwerke.md) verdeutlicht werden.
+Das bisher beschriebene Modell soll durch ein [Beispiel](beispiel-frbroo-fuer-einzelwerke.md) verdeutlicht werden.
 
 In den nächsten Beiträgen zeige ich dann, wie das bei Sammelwerken, Sammlungen und den zugehörigen Beitragen sowie bei mehrbändig begrenzten Werken aussieht.
 
