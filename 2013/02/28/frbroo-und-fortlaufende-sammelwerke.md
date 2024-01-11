@@ -1,6 +1,11 @@
 # FRBRoo und fortlaufende Sammelwerke
 
-Posted on 28. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 28. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Bei der Definition der FRBRoo wurde darauf geachtet, dass die Begrifflichkeiten der ursprünglichen Functional Requirements for Bibliographic Records noch präzisiert werden. Diese begriffliche Abklärung ergibt sich in vielen Fällen aus der Darstellung der bibliographischen Information als Prozess. Als ein Beispiel wurde in [FRBRoo — eine Anwendung](../15/frbroo-eine-anwendung.md) schon die Klasse Work mit ihren präzisierenden Unterklassen dargestellt. Insbesondere wurde mit der Klasse `F18 Serial Work` eine Möglichkeit geschaffen, die Unklarheiten zu Serials, also den fortlaufenden Sammelwerken, in den FRBR zu beseitigen. In den FRBR ist eindeutig beschrieben, dass eine Manifestation in dem Sinn abgeschlossen sein muss, dass man ein Exemplar kaufen und ins Regal stellen kann. Bei fortlaufenden Sammelwerken ist das nicht möglich, solange es weitere Bände –- beispielsweise in Form von Jahrgängen und Heften -– gibt. In FRBRoo heißt es dazu:
 

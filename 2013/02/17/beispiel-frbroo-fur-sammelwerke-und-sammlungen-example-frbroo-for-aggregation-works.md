@@ -1,6 +1,11 @@
 # Beispiel: FRBRoo für Sammelwerke und Sammlungen / Example: FRBRoo for Aggregation Works
 
-Posted on 17. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 17. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Beispiel für / Example for: [Sammelwerke, Sammlungen, mehrbändig begrenzte Werke und FRBRoo](sammelwerke-sammlungen-mehrbaendig-begrenzte-werke-und-frbroo.md)
 

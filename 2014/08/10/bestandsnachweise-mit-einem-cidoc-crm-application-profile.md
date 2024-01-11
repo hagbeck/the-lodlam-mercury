@@ -1,6 +1,11 @@
 # Bestandsnachweise mit einem CIDOC CRM-Application Profile
 
-Posted on 10. August 2014 by Hans-Georg Becker	
+Veröffentlicht am 10. August 2014 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Auf meinen Beitrag [Bestandsnachweise von Bibliotheken als Linked Data](../../../2013/11/22/bestandsnachweise-von-bibliotheken-als-linked-data.md) gab es einige Anmerkungen. Neben einigen Retweets wurde insbesondere die Komplexität des CRM angesprochen. Beispielhaft greife ich hier eine Reaktion von Karen Coyle ([@karencoyle](https://twitter.com/karencoyle)) in der Mailing-Liste der [Schema Bib Extend Community Group](https://www.w3.org/community/schemabibex/) heraus[^1]: 
 

@@ -1,6 +1,11 @@
 # CRMdig und CRMgeo — zwei Erweiterungen für das CIDOC CRM
 
-Posted on 22. Oktober 2013 by Hans-Georg Becker	
+Veröffentlicht am 22. Oktober 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Über die Rolle und Mächtigkeit des CIDOC CRM für die Beschreibung von Zusammenhängen im Bereich des kulturellen Erbes habe ich u.a. im Beitrag [FRBRoo — eine Anwendung](../../02/15/frbroo-eine-anwendung.md) geschrieben und gezeigt, dass auch bibliographische Zusammenhänge mittels der Erweiterung FRBRoo sehr gut darstellbar sind.
 Doch es gibt auch noch offene bzw. nur unzureichend modellierte Fragestellungen. Zum einen ist die Ausgestaltung des Bereichs der Geoinformationen überraschend überschaubar. Zum anderen ist auch die wichtige Frage der Provenienz im Hauptmodell nicht weit genug gefasst.

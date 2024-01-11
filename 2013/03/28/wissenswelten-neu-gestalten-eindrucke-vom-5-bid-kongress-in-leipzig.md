@@ -1,6 +1,11 @@
 # “Wissenswelten neu gestalten” — Eindrücke vom 5. BID-Kongress in Leipzig
 
-Posted on 28. März 2013 by Hans-Georg Becker	
+Veröffentlicht am 28. März 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Vom 11. bis 14. März fand in Leipzig der 5. Bibliothekskongress unter dem Motto “Wissenswelten neu gestalten” statt. Neben den wie immer äußerst interessanten Randgesprächen, habe ich mich in diesem Jahr den Themenfeldern “Forschungsdokumentation”, “Zukunft der Verbünde” und “neue Wege in der Erschließung” gewidmet.
 

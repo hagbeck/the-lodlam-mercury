@@ -1,6 +1,11 @@
 # Veröffentlichung von Forschungsdaten eines DFG-Projektes auf Zenodo – Ein Selbstversuch
 
-Posted on 9. August 2014 by Hans-Georg Becker	
+Veröffentlicht am 9. August 2014 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Jede wissenschaftliche Einrichtung stellt – in der Regel basierend auf Empfehlungen von Drittmittelgebern wie der DFG – an sich den Anspruch, nach den Regeln guter wissenschaftlicher Praxis zu arbeiten. Hierzu heißt es beispielweise in den [Regeln für die TU Dortmund](https://www.tu-dortmund.de/uni/Uni/Organisation/Kommission_gute_wissenschaftliche_Praxis/Regeln_guter_wissenschaftlicher_Praxis_der_TUDO_17_06_09.pdf):
 

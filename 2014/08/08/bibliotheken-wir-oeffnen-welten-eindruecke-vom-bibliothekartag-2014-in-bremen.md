@@ -1,6 +1,11 @@
 # “Bibliotheken: Wir öffnen Welten” — Eindrücke vom Bibliothekartag 2014 in Bremen
 
-Posted on 8. August 2014 by Hans-Georg Becker	
+Veröffentlicht am 8. August 2014 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Vom 3. bis 6. Juni fand in Bremen der [103. Bibliothekartag](https://www.bibliothekartag2014.de/) unter dem Motto “Bibliotheken: Wir öffenen Welten” statt. Auch in diesem Jahr waren die Gespräche am Rande äusserst interessant und inspirierend und übertrafen die Vorträge in Sachen Informationsgehalt doch teilweise erheblich. Doch es gab auch Highlights unter den Beiträgen …
 

@@ -1,6 +1,11 @@
 # Beispiele: FRBRoo für mehrbändig begrenzte Werke / Examples: FRBRoo for Multivolume Works
 
-Posted on 17. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 17. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Beispiele für / Examples for: [Sammelwerke, Sammlungen, mehrbändig begrenzte Werke und FRBRoo](beispiele-frbroo-fur-mehrbaendig-begrenzte-werke-examples-frbroo-for-multivolume-works.md)
 

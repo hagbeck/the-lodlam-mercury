@@ -1,5 +1,11 @@
 # Sammelwerke, Sammlungen, mehrbändig begrenzte Werke und FRBRoo
-Posted on 17. Februar 2013 by Hans-Georg Becker	
+
+Veröffentlicht am 17. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Im Beitrag [FRBRoo — Eine prozessorientierte Sicht auf bibliographische Informationen](../16/frbroo-eine-prozessorientierte-sicht-auf-bibliographische-informationen.md) habe ich gezeigt, wie sich Einzelwerke mittels FRBRoo darstellen lassen. Im folgenden wird das Modell auf Sammelwerke, Sammlungen und mehrbändig begrenzte Werke ausgeweitet.
 

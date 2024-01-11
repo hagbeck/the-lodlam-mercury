@@ -1,6 +1,11 @@
 # FRBRoo - Eine prozessorientierte Sicht auf bibliographische Informationen
 
-Posted on 16. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 16. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Nachdem ich in [FRBRoo — eine Anwendung](../15/frbroo-eine-anwendung.md) meine Motivation in Bezug auf FRBRoo erläutert habe, werde ich im Folgenden die Publikationsformen mithilfe der FRBRoo dargestellen. Dabei stützt sich die Modellierung vor allem auf die Ereigniszentriertheit des CRM, wodurch die Schöpfungs-, Publikations- und Produktionsprozesse transparenter werden.
 

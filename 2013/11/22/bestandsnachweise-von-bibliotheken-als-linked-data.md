@@ -1,8 +1,13 @@
 # Bestandsnachweise von Bibliotheken als Linked Data
 
-Posted on 22. November 2013 by Hans-Georg Becker	
+Veröffentlicht am 22. November 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
 
 [English Version](./library-holdings-as-linked-data.md)
+
+***
 
 Lukas Koster formulierte in seinem Blog-Beitrag [“Local library data in the new global framework”](https://commonplace.net/2012/01/local-library-data-in-the-new-global-framework/) sehr treffend:
 

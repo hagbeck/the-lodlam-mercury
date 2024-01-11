@@ -1,8 +1,13 @@
 # Library Holdings as Linked Data
 
-Posted on 22. November 2013 by Hans-Georg Becker	
+Posted on 22. November 2013 by Hans-Georg Becker, 	Translated by André Hagenbruch
 
-Translated by André Hagenbruch / [Deutsche Version](./bestandsnachweise-von-bibliotheken-als-linked-data.md)
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+[Deutsche Version](./bestandsnachweise-von-bibliotheken-als-linked-data.md)
+
+***
 
 In his blog post [“Local library data in the new global framework”](https://commonplace.net/2012/01/local-library-data-in-the-new-global-framework/) Lukas Koster was spot on when he noted:
 

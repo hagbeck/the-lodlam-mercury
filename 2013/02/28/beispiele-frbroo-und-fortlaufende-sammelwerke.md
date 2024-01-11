@@ -1,6 +1,11 @@
+# Beispiele: FRBRoo und fortlaufende Sammelwerke
 
-Beispiele: FRBRoo und fortlaufende Sammelwerke
-Posted on 28. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 28. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Beispiele für [FRBRoo und fortlaufende Sammelwerke](../28/frbroo-und-fortlaufende-sammelwerke.md)
 

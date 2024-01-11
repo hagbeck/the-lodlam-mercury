@@ -1,6 +1,6 @@
 # Publizieren mal zeitgemäß
 
-Posted on 12. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 12. Februar 2013 von Hans-Georg Becker	
 
 ![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
 The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.

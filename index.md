@@ -14,9 +14,7 @@ Meine vollständige Publikationsliste befindet sich in meinem [ORCID Record ![OR
 
 ¹LODLAM = Linked Open Data in Libraries, Archives and Museums
 
-***
-
-### Inhalt
+## Inhalt
 
 * Volume 1, 2013
   * [Publizieren mal zeitgemäß](2013/02/12/publizieren-mal-zeitgemaess.md)\

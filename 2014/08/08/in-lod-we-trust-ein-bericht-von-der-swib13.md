@@ -1,6 +1,11 @@
 # “In LOD we trust” – Ein Bericht von der SWIB13
 
-Posted on 8. August 2014 by Hans-Georg Becker	
+Veröffentlicht am 8. August 2014 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Wie die Zeit vergeht … Ich habe es endlich geschafft, auch meine Eindrücke von der SWIB 13 in Worte zu fassen. Viel Spaß damit!
 

@@ -1,8 +1,11 @@
 # FRBRoo - eine Anwendung
 
-https://the-lodlam-mercury.de/2013/02/15/frbroo-eine-anwendung/
+Veröffentlicht am 15. Februar 2013 von Hans-Georg Becker	
 
-Posted on 15. Februar 2013 by Hans-Georg Becker	
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 In den letzten Jahren habe ich mich im Rahmen des von der DFG geförderten Projektes ["ArcheoInf - Informationszentrum für die Archäologie](https://www.ub.tu-dortmund.de/archeoinf/) mit dem CIDOC CRM und der zugehörigen Erweiterung FRBRoo beschäftigt.
 

@@ -1,6 +1,11 @@
 # PRESSoo und ECPO – Zwei weitere Ontologien zur Beschreibung von fortlaufenden Sammelwerken
 
-Posted on 8. November 2013 by Hans-Georg Becker	
+Veröffentlicht am 8. November 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Die Modellierung von fortlaufenden Sammelwerken mittels des Referenzmodells FRBR gestaltet sich schwierig. Als Gründe seien vor allem die Unvollständigkeit von fortlaufenden Sammelwerken und die Heterogenität der in fortlaufenden Sammelwerken enthaltenen Manifestationen genannt.
 

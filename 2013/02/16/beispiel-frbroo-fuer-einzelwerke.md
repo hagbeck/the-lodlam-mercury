@@ -1,6 +1,11 @@
 # Beispiel: FRBRoo für Einzelwerke / Example: FRBRoo for Individual Works
 
-Posted on 16. Februar 2013 by Hans-Georg Becker	
+Veröffentlicht am 16. Februar 2013 von Hans-Georg Becker	
+
+![The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.](../../../cc_by_88x31.png)\
+The LODLAM Mercury von Hans-Georg Becker steht unter einer Creative Commons Namensnennung 4.0 Unported Lizenz.
+
+***
 
 Beispiel für / Example for: [FRBRoo — Eine prozessorientierte Sicht auf bibliographische Informationen](frbroo-eine-prozessorientierte-sicht-auf-bibliographische-informationen.md)
 
