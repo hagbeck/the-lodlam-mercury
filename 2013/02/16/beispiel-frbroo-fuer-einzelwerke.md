@@ -16,7 +16,7 @@ ISBN: 978-0-8389-0950-8, 0-8389-0950-7
 
 **Graphische Darstellung / graphical representation**
 
-![Einzelwerk_Beispiel](HGB_Einzelwerk_Beispiel.jpg)
+[![Einzelwerk_Beispiel](HGB_Einzelwerk_Beispiel.jpg)](HGB_Einzelwerk_Beispiel.jpg)
 
 Mögliche RDF-Darstellung / representation in RDF
 
